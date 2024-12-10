@@ -29,6 +29,13 @@ h1 {
   font-size: 3em;
 }
 
+h2 {
+  font-size: 2rem;
+  margin-block-end: 0;
+  margin-bottom: 1rem;
+}
+
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;

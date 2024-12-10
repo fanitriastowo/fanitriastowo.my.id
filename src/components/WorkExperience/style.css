@@ -1,0 +1,27 @@
+.work-experience {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #555;
+  line-height: 1.5;
+}
+
+.jobs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.job {
+  flex: 0 0 49%;
+}
+
+.experience-badge {
+  background-color: rgb(255, 255, 255, 1);
+  padding: 5px 15px;
+  font-size: 13px;
+  display: inline;
+  color: black;
+  border-radius: 10px;
+  font-weight: bold;
+}

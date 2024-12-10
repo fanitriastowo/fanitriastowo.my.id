@@ -1,18 +1,14 @@
 .header {
   display: flex;
   align-items: center;
-  border-bottom: 2px solid #888;
-}
-
-h2.text-2lg {
-  font-size: 2rem;
+  border-bottom: 1px solid #555;
 }
 
 .social-media {
   margin-left: auto;
 }
 
-.social-media a{
+.social-media a {
   margin: 0 4px;
 }
 
