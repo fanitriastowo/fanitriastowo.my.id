@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #888;
+}
+
+h2.text-2lg {
+  font-size: 2rem;
+}
+
+.social-media {
+  margin-left: auto;
+}
+
+.social-media a{
+  margin: 0 4px;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #777;
+  color: white;
+}
